@@ -1,8 +1,4 @@
-I see what happened! In the previous turn, the code block formatting inside the text file didn't convert neatly to a downloadable layout because I wrapped everything globally within the script instead of outputting the raw formatting directly in our chat window. My bad!
 
-Here is the clean, beautifully formatted **README.md** text you can copy and paste directly into your project.
-
-```markdown
 # Waste Classification AI - Real-Time Predictor
 
 This repository contains a real-time computer vision system that uses a trained machine learning model to classify different types of waste materials (such as Paper, Glass, Tin, and Organic waste) via a live webcam feed. Developed as part of a university AI mini-project.
@@ -106,7 +102,5 @@ The project relies on these strict environment package baselines as written in `
 * **tensorflow**: Runs the foundational deep learning model architecture and evaluates the neural network arrays.
 * **opencv-python**: Captures real-time camera frames and draws the visual diagnostic UI overlays on screen.
 * **numpy**: Normalizes and shapes frame multi-dimensional matrices to prepare them for model ingestion.
-
-```
 
 ```
