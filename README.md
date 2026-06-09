@@ -103,4 +103,3 @@ The project relies on these strict environment package baselines as written in `
 * **opencv-python**: Captures real-time camera frames and draws the visual diagnostic UI overlays on screen.
 * **numpy**: Normalizes and shapes frame multi-dimensional matrices to prepare them for model ingestion.
 
-```
